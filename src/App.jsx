@@ -1,10 +1,11 @@
-import { Login } from "./components/login"
+import { Aluno } from "./components/home-screen/Aluno"
+
 
 function App() {
  
 
   return (
-   <Login />
+   <Aluno/>
   )
 }
 

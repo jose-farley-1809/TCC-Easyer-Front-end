@@ -1,0 +1,53 @@
+.cd {
+    background-color: bisque;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    height: 80vh;
+    width: 80vw;
+    text-align: center;
+}
+.cardContainer {
+    border-radius: 10px;
+    padding: 15px;
+    height: 55vh;
+    width: 20vw;
+    background-color: rgb(200, 199, 199);
+    text-align: start;
+    justify-content: center;
+    text-align: center;
+}
+.cardContent {
+    padding: 10px;
+    text-align: start;
+}
+.cardImage {
+    border-radius: 100px;
+    height: 18vh;
+    width: 8vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2vh;
+    background-color: rgb(133, 131, 131);
+}
+.cardProfessor {
+    font-size: 11pt;
+}
+.cards {
+    display: flex;
+    justify-content: space-around;
+}
+.btnRequisitar {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    min-width: 10vw;
+    max-width: 10vw;
+}
+.title {
+    font-weight: bold;
+    color: rgb(116, 116, 116);
+    font-size: 16pt;
+    margin-top: 2%;
+    margin-bottom: 4%;
+}
